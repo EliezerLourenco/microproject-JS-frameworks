@@ -64,15 +64,23 @@ Open your browser and navigate to http://localhost:3000.
 └── package.json
 ```
 API Endpoint
-GET /api/projects: Fetches the list of projects from the projects.json file.
-Contributing
-Feel free to fork this repository and submit pull requests. If you have any questions or suggestions, please contact me at lourenco.eliezer@gmail.com.
+## API Endpoint
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **GET /api/projects**: Fetches the list of projects from the `projects.json` file.
 
-Contact
-Email: lourenco.eliezer@gmail.com
-LinkedIn: Eliezer Lourenço
-GitHub: EliezerLourenco
-© 2024 Eliezer Lourenço
+## Contributing
+
+Feel free to fork this repository and submit pull requests. If you have any questions or suggestions, please contact me at [lourenco.eliezer@gmail.com](mailto:lourenco.eliezer@gmail.com).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- **Email**: [lourenco.eliezer@gmail.com](mailto:lourenco.eliezer@gmail.com)
+- **LinkedIn**: [Eliezer Lourenço](https://www.linkedin.com/in/eliezer-lourenco/)
+- **GitHub**: [EliezerLourenco](https://github.com/EliezerLourenco)
+
+&copy; 2024 Eliezer Lourenço
+
