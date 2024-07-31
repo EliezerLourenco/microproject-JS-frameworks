@@ -27,8 +27,9 @@ Install the required dependencies:
 
 ```bash
 npm install
-Run the server:
 ```
+Run the server:
+
 
 ```bash
 
