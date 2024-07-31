@@ -63,7 +63,6 @@ Open your browser and navigate to http://localhost:3000.
 ├── package-lock.json
 └── package.json
 ```
-API Endpoint
 ## API Endpoint
 
 - **GET /api/projects**: Fetches the list of projects from the `projects.json` file.
