@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Astronomy Daily Image JavaFX Viewer (Java)",
+      "description": "Utilized advanced knowledge of Java to engineer an innovative JavaFX desktop application to fetch and display daily astronomical pictures from NASA's APOD (Astronomy Picture of the Day) API. Application featured built-in caching functionality to support offline viewing and offer added flexibility to users during connectivity issues or simply for preference purposes. Developed a user-friendly interface focusing on enhancing user navigation ease while browsing through intricate space visuals with fluid transitions between different sections.",
+      "image": "images/Astronomy Pic.png",
+      "link": "https://github.com/EliezerLourenco/APOD"
+    },
+    {
+      "id": 2,
+      "name": "Discord Bot Collection (Python)",
+      "description": "Designed and built a sophisticated collection of automation tools, popularly known as Discord bots, using Python programming. These tools handled several routine tasks on Discord servers, maximizing operational efficiency and elevating the user interaction experience. An in-depth understanding and implementation of the Discord API played a critical role in facilitating real-time communication enhancements and driving successful server management practices.",
+      "image": "images/Discord.png",
+      "link": "https://github.com/EliezerLourenco/DiscordBotCollection"
+    }
+  ]
+  
