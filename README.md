@@ -1,6 +1,5 @@
 README.md
 markdown
-Copy code
 # My Portfolio
 
 This is a portfolio website built using Express.js and Node.js. The website showcases my projects, resume, and contact information. It includes a dynamic project loading feature from a JSON file using an API endpoint.
@@ -27,19 +26,19 @@ This is a portfolio website built using Express.js and Node.js. The website show
    cd portfolio
 Install the required dependencies:
 
-bash
-Copy code
+```bash
 npm install
 Run the server:
+```
 
-bash
-Copy code
+```bash
+
 npm run start
 Open your browser and navigate to http://localhost:3000.
-```bash
+```
+
 Project Structure
-kotlin
-Copy code
+```bash
 .
 ├── data
 │   └── projects.json
@@ -76,27 +75,3 @@ Email: lourenco.eliezer@gmail.com
 LinkedIn: Eliezer Lourenço
 GitHub: EliezerLourenco
 © 2024 Eliezer Lourenço
-
-markdown
-Copy code
-
-### Steps to Add README to Your GitHub Repository
-
-1. **Create README.md File**:
-   - Create a new file named `README.md` in the root directory of your project.
-
-2. **Add the Provided Content**:
-   - Copy and paste the content provided above into the `README.md` file.
-
-3. **Commit and Push to GitHub**:
-   - Use the following commands to commit the changes and push them to your GitHub repository:
-     ```bash
-     git add README.md
-     git commit -m "Add README file"
-     git push origin main
-     ```
-
-4. **Verify on GitHub**:
-   - Go to your GitHub repository page and check that the README file is displayed correctly. 
-
-This README file provides a comprehensive overview of your project, including installation steps
