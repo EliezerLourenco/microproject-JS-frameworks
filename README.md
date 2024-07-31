@@ -1,5 +1,4 @@
-README.md
-markdown
+
 # My Portfolio
 
 This is a portfolio website built using Express.js and Node.js. The website showcases my projects, resume, and contact information. It includes a dynamic project loading feature from a JSON file using an API endpoint.
