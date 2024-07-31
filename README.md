@@ -36,7 +36,7 @@ bash
 Copy code
 npm run start
 Open your browser and navigate to http://localhost:3000.
-
+```bash
 Project Structure
 kotlin
 Copy code
@@ -62,6 +62,7 @@ Copy code
 ├── index.js
 ├── package-lock.json
 └── package.json
+```
 API Endpoint
 GET /api/projects: Fetches the list of projects from the projects.json file.
 Contributing
